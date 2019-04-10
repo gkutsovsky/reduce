@@ -1,1 +1,1 @@
-My take on the popular reduce method in JavsScript. 
+My take on the popular reduce method in JavaScript. 
